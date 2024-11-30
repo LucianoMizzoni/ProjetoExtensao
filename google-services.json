@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431166678727",
+    "project_id": "aplicativo-e1ae7",
+    "storage_bucket": "aplicativo-e1ae7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431166678727:android:1bb216efb5cebbd23100e2",
+        "android_client_info": {
+          "package_name": "com.cardapio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Z4c4JzTcgspm_auAtGEjat7AO0X32zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431166678727:android:0ae6924303e05d703100e2",
+        "android_client_info": {
+          "package_name": "com.luciano.androidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Z4c4JzTcgspm_auAtGEjat7AO0X32zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
